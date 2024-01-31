@@ -1,5 +1,5 @@
 
-<img src="./mx/nc11.gif width="300%"> </img>
+<img src="./mx/nc11.gif" width="300%"> </img>
 
 ---
 
