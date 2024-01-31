@@ -1,3 +1,4 @@
+/* Global Selector */
 * {
   margin: 0;
   padding: 0;
@@ -8,11 +9,24 @@ body {
   background-color: rgb(255, 198, 222);
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 20px;
+  padding: 60px;
 }
 
 h1 {
   color: rgb(255, 0, 0);
   font-size: larger;
+  margin-bottom: 25px;
+}
+
+h2 {
+  color: rgb(0, 0, 255);
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+h4 {
+  margin-bottom: 15px;
+  text-align: center;
 }
 
 .first {
@@ -23,8 +37,30 @@ h1 {
   color: rgb(255, 0, 0);
 }
 
+/* Paragrah Selector */
+p {
+  color: rgb(0, 0, 0);
+  margin-bottom: 25px;
+}
+
 #mistress-name {
   background-color: rgb(144, 1, 144);
   border: 5px solid rgb(0, 255, 68);
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  width: 400px;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+/* Input Selector */
+input,
+button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+/* Link Styler */
+a {
+  background-color: cadetblue;
+  color: blueviolet;
 }
