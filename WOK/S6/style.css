@@ -10,6 +10,10 @@ body {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 20px;
   padding: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 h1 {
@@ -44,7 +48,7 @@ p {
 }
 
 #mistress-name {
-  background-color: rgb(144, 1, 144);
+  background-color: rgb(255, 150, 255);
   border: 5px solid rgb(0, 255, 68);
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   width: 400px;
@@ -63,4 +67,14 @@ button {
 a {
   background-color: cadetblue;
   color: blueviolet;
+}
+
+#mistress-name h4 {
+  color: chocolate;
+}
+
+/* Image Selector */
+#img {
+  width: 200px;
+  border-radius: 50%;
 }
