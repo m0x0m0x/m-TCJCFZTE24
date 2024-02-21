@@ -16,3 +16,6 @@ const calcAge = birthYear => 2037 - birthYear;
 console.log(calcAge(1991));
 console.log('booty');
 console.log(manVal);
+
+console.log('Testing sentences ');
+console.log('Testing sentences ');
