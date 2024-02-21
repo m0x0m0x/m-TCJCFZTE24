@@ -1,0 +1,63 @@
+{
+  "workbench.colorTheme": "Material Theme Ocean High Contrast",
+  "workbench.list.smoothScrolling": true,
+  "editor.smoothScrolling": true,
+  "editor.renderWhitespace": "all",
+  "editor.guides.bracketPairs": "active",
+  "editor.lineHeight": 2,
+  "editor.fontSize": 17,
+  "editor.fontFamily": "GoMono Nerd Font",
+  "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
+  "terminal.integrated.fontSize": 17,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "markdown.extension.preview.autoShowPreviewToSide": true,
+  "markdown.extension.toc.orderedList": true,
+  "codeium.enableConfig": {
+    "*": true,
+    "go.mod": true,
+    "plaintext": true,
+    "markdown": true,
+    "snippets": true
+  },
+  "workbench.iconTheme": "eq-material-theme-icons-ocean",
+  "editor.linkedEditing": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "workbench.tree.enableStickyScroll": true,
+  "files.autoSave": "onFocusChange",
+  "git.openRepositoryInParentFolders": "always",
+  "remote.autoForwardPortsSource": "hybrid",
+
+  // Todo: Add more settings
+  "todohighlight.isCaseSensitive": true,
+  "todohighlight.keywords": [
+    {
+      "text": "VIDEO",
+      "color": "#333",
+      "backgroundColor": "#3498db"
+    },
+    {
+      "text": "FIXME",
+      "color": "#333",
+      "backgroundColor": "#e67e22"
+    },
+    {
+      "text": "LEC",
+      "color": "#333",
+      "backgroundColor": "#f1c40f"
+    },
+    {
+      "text": "BUG",
+      "color": "#333",
+      "backgroundColor": "#e74c3c"
+    },
+    {
+      "text": "TODO",
+      "color": "#333",
+      "backgroundColor": "#2ecc71"
+    }
+  ]
+}
